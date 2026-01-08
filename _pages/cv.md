@@ -1,64 +1,73 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
+ 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=====
+Graduated From Immokalee HighSchool in 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Tow Operator - Bills Towing Inc.
+Immoklaee, FL | SEP 2025 - Present   
+Tow  recovery opertional and non operational vehicles 
+Jump starts, Tire chamges, Lock out's
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Assitant Manager - AutoZone 
+Immokalee, FL | Oct 2025 - Present 
+Managed dailt store operations, including closing and staff oversight 
+Handle bank deposits 
+De-escalated customer disputes and ensured excellent service
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Assistant Manager – Capital Pawn
+Golden Gate, FL | Mar 2021 - Nov 2023
+Managed daily store operations, including opening/closing and staff oversight
+Handled secure jewelry inventory and firearm transactions
+Only staff member certified to process federal gun forms
+Performed bank deposits and cash pickups
+Served as bilingual customer liaison and managed multiple store locations
+De-escalated customer disputes and ensured excellent service
+Troubleshooted any on site IT issues 
+
+Construction Carpenter – Brasfield & Gorrie
+Nashville, TN | Nov 2023 - June 2025
+Specialized in concrete and structural builds, including water treatment plants and tunnel construction
+Operated various hand tools and followed precise construction plans
+Maintained site safety and collaborated with crew to meet project goals
+
+Paintball Referee – Fort Myers Extreme Rage Paintball
+Fort Myers, FL | Sept 2019 – Mar 2021
+Oversaw player safety and enforced rules on and off the field
+Managed equipment inspections and provided customer briefings
+Created a fun, safe experience for players of all ages
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Bilingual: English & Spanish
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Cash handling & bank deposits
+
+Retail & warehouse operations
+
+Inventory management
+
+Customer conflict resolution
+
+Firearm form processing (4473)
+
+Cement work & hand tools
+
+Microsoft Word, PowerPoint, 
+
+Certified Childcare Provider
+
+Strong leadership & teamwork
+
+Cisco Computer Hardware Basics
+
+Cisco Engaging Stockholders for Success
+
+Intuit Design for Delight Innovator
+
+Cisco Operating System Basics
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
