@@ -13,7 +13,7 @@ title                    : "Victor Figueroa / Victors "
 title_separator          : "-"
 name                     : &name "Victor Figueroa"
 description              : &description "This site is a demostration of the work that i have done"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://victorf972-glitch.github.io",
+url                      : https://victorf972-glitch.github.io # The base hostname & protocol for your site e.g. "https://victorf972-glitch.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "victorf972-glitch.github.io"
