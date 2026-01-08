@@ -6,12 +6,11 @@ Graduated From Immokalee HighSchool in 2016
 Work experience
 ======
 Tow Operator - Bills Towing Inc.
-Immoklaee, FL | SEP 2025 - Present   
-Tow  recovery opertional and non operational vehicles 
+Immoklaee, FL | SEP 2025 - Present   Tow  recovery opertional and non operational vehicles 
 Jump starts, Tire chamges, Lock out's
 
 Assitant Manager - AutoZone 
-Immokalee, FL | Oct 2025 - Present 
+Immokalee, FL | Oct 2025 -Present 
 Managed dailt store operations, including closing and staff oversight 
 Handle bank deposits 
 De-escalated customer disputes and ensured excellent service
